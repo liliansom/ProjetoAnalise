@@ -1,12 +1,13 @@
 ## Apresentação
-Neste projeto iremos realizar uma análise exploratória com os dados reais do naufrágio do Titanic.<br>
+Neste projeto iremos realizar uma análise exploratória com os dados reais do naufrágio do Titanic e, com esses dados, criar um jogo que irá apresentar a probabilidade do jogador sobreviver ao desastre.<br>
 
 ## Informações
 Dados Titanic: https://www.kaggle.com/competitions/titanic/data;<br>
+Python<br>
+Bibliotecas: Flask, Pandas.<br>
 SQL Server<br>
 Anaconda<br>
 Jupyter<br>
-Power BI?<br>
 
 ## Como utilizar?
 <br>
