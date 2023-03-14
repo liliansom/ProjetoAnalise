@@ -1,11 +1,10 @@
 ## Apresentação
-Neste projeto iremos realizar uma análise exploratória com os dados reais do naufrágio do Titanic e, com esses dados, criar um jogo que irá apresentar a probabilidade do jogador sobreviver ao desastre.<br>
+Neste projeto iremos realizar um storytelling do machine learning utilizando dados reais do naufrágio do Titanic.<br>
 
 ## Informações
 Dados Titanic: https://www.kaggle.com/competitions/titanic/data;<br>
 Python<br>
-Bibliotecas: Flask, Pandas.<br>
-SQL Server<br>
+Bibliotecas: Pandas, Sklearn, Numpy.<br>
 Anaconda<br>
 Jupyter<br>
 
@@ -13,12 +12,12 @@ Jupyter<br>
 <br>
 
 
-## Perguntas da Análise
-<br>
+## Proposta
+Realizar um machine learning com dados reais do Titanic para verificar quem sobreviveria ou não ao naufrágio.<br>
 
 
 ## Resultados
-<br>
+Foi possível treinar a máquina para ter uma probabilidade de acerto de 77,03%, segundo o Kaggle.<br>
 
 
 ## Passo-a-Passo do Projeto
